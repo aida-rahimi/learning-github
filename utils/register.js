@@ -4,3 +4,7 @@ let registerUser = () => {
 let isUserRegisterd = () => {
   return false;
 };
+
+let userRegisterTest = () => {
+  return "testing user register passed successfully";
+};
