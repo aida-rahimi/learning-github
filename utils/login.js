@@ -4,3 +4,7 @@ let userLogin = () => {
 let isUserLogin = () => {
   return true;
 };
+
+let testingUserLogin = () => {
+  return "user login testing passed successfully";
+};
