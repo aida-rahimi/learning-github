@@ -3,3 +3,11 @@
     font-size: 20px;
     color: aquamarine;
 }
+.headText {
+  color: aquamarine;
+  text-decoration: underline;
+  font-weight: bold;
+  text-align: center;
+  font-size: 3rem;
+  margin-top: 10px;
+}
